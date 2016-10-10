@@ -13,7 +13,11 @@ img, video {
   margin:5px auto 5px auto;
   display: block;}
 
-pre{white-space: pre-wrap;}
+pre{
+  background:#191919;
+  color:#0f0;
+  padding:5px 5px 5px 8px;
+  white-space: pre-wrap;}
 
 #logo, #logo a{
   background:#333;
