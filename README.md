@@ -8,4 +8,4 @@ This is a simple template in 15 lines CSS.
 
 ##/multitower
 Center  
-[DEMO](https://cdn.rawgit.com/i5heu/BASIC-CSS-templates/ff5043d4f916c9a6ae3e13ea2d6eecec5eca4cf2/multitower/main.css)
+[DEMO](https://cdn.rawgit.com/i5heu/BASIC-CSS-templates/ff5043d4f916c9a6ae3e13ea2d6eecec5eca4cf2/multitower/index.html)
