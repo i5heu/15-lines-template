@@ -11,7 +11,7 @@ Center
 [DEMO](https://cdn.rawgit.com/i5heu/BASIC-CSS-templates/ff5043d4f916c9a6ae3e13ea2d6eecec5eca4cf2/multitower/index.html)
 
 
-```<!-- Include the Example Code From https://github.com/i5heu/html-example-code-lorem   -->
+<!-- Include the Example Code From https://github.com/i5heu/html-example-code-lorem   -->
 <!-- You can delete everything from HERE -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
  <script>
@@ -20,4 +20,4 @@ Center
     });
     </script>
 <test></test>
-<!-- TO HERE -->```
+<!-- TO HERE -->
